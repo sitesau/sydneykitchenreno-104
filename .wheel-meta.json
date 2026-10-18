@@ -1,0 +1,22 @@
+{
+  "wheel_id": 405,
+  "structure": "umbrella",
+  "slug": "sydneykitchenreno-104",
+  "project": "kitchen-renovations-sydney-maintenance-3f6e1de3acd5a6064c1f906b",
+  "parent_t1_ref": "sydneykitchenreno-151",
+  "node_role": "feeder",
+  "money_target": "sydneykitchenreno.com.au",
+  "primary_kw": "kitchen renovations sydney maintenance",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-sydney-maintenance-3f6e1de3acd5a6064c1f906b/",
+  "tier": "T2",
+  "writeback_nonce": "3a60f0d5c02a5502",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneykitchenreno-151/",
+      "anchor": "kitchen renovations sydney council and approvals",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
